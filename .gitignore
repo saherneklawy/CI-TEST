@@ -8,6 +8,8 @@
 /log/*.log
 /tmp
 
+*.swp
+
 *.rbc
 capybara-*.html
 .rspec
