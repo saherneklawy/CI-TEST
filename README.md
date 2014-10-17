@@ -12,18 +12,18 @@ http://docs.travis-ci.com/user/getting-started/
 http://docs.travis-ci.com/user/languages/ruby/
 
 
-check ee79f5a for capybara config
-check 756eb48 for switching to poltergeist driver
+- check ee79f5a for capybara config
+- check 756eb48 for switching to poltergeist driver
 
 http://docs.travis-ci.com/user/gui-and-headless-browsers/
 
 http://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step http://docs.travis-ci.com/user/build-configuration/#White--or-blacklisting-branches
 
-syntax check
-assets check
+- syntax check  
+- assets check
 
-http://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
-http://docs.travis-ci.com/user/database-setup/#ElasticSearch
+- http://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step  
+- http://docs.travis-ci.com/user/database-setup/#ElasticSearch
 
 extras:
 - http://docs.travis-ci.com/user/notifications/
